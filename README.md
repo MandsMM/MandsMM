@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MandsMM
-- 👀 I’m interested in rigging, pipeline 
+- 👀 I’m interested in rigging, pipeline, general 
 - 🌱 I’m currently learning more about Python
-- 💞️ I’m looking to collaborate on Maya projects
+- 💞️ I’m looking to collaborate on Python projects
 
 
 <!---
